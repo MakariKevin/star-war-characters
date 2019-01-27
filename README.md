@@ -1,10 +1,17 @@
-Examples using Vaadin, REST and static HTML in a Spring Boot application
+Developed using:
+* Vaadin(Java Web for creating interactive UI), 
+* REST 
+* Static HTML 
+* Spring Boot
 
 Relevant files are:
-* [ExampleVaadinUI.java](src/main/java/com/starwars/characters/ExampleVaadinUI.java) - Vaadin application
-* [ExampleRestController.java](src/main/java/com/starwars/characters/ExampleRestController.java) - REST controller
-* [example.html](src/main/resources/static/example.html) - Static HTML file
+* [MainUI.java](src/main/java/com/starwars/characters/MainUI.java) - Vaadin application
+* [StarWarsApplication.java](src/main/java/com/starwars/characters/StarWarsApplication.java) - Spring Boot application
+* [MainView.java](src/main/java/com/starwars/characters.views/MainView.java) - REST controller
+* [pom.xml](project folder) - Static HTML file
 
-This project is created using [start.spring.io](http://start.spring.io)
+This project is created using: 
+* [start.spring.io](http://start.spring.io) 
+* [vaadin](https://vaadin.com/)
 
 "# star-war-characters" 
