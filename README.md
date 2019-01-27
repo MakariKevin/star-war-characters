@@ -1,5 +1,5 @@
 Developed using:
-* Vaadin(Java Web for creating interactive UI), 
+* Vaadin(Java Web Framework for creating interactive UI/UX), 
 * REST 
 * Static HTML 
 * Spring Boot
