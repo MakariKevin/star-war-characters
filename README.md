@@ -15,3 +15,12 @@ This project is created using:
 * [vaadin](https://vaadin.com/)
 
 "# star-war-characters" 
+
+
+Installing
+-------
+* Clone into Intellij IDEA then run the following command in the terminal:
+mvn spring-boot:run
+
+* Using any browser, run the application at:
+localhost:8080
